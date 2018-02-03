@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{280D1FA3-B464-4FEB-BB41-692B434DA88D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ListViewSample/ListViewSample.iOS/AppDelegate.cs">
+    <Files>
+      <File FileName="ListViewSample/ListViewSample.iOS/AppDelegate.cs" Line="25" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ListViewSample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6527DB3C-B786-4271-812C-AE6EFFAADD5F" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -101,6 +101,7 @@
   <ItemGroup>
     <ProjectReference Include="..\ListViewSample\ListViewSample.csproj">
       <Name>ListViewSample</Name>
+      <Project>{EAC5C0BF-E6F8-482D-8BF7-2E8111D63C65}</Project>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

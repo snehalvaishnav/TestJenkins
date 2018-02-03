@@ -22,6 +22,7 @@ namespace ListViewSample.iOS
         //
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
+            ----adsf
             global::Xamarin.Forms.Forms.Init();
             LoadApplication(new App());
 
